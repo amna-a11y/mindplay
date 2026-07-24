@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "4a1b0dc6-8ffc-434b-8ef9-8cb23710644f",
+      "name": "noor",
+      "email": "mmoor2435@gmail.com",
+      "phone": "03488488556",
+      "passwordHash": "$2a$10$mRSL01DjMQ9xnSMS12tKvux8VvKqN/84aU3Xy6YB3FsEV1prGXuO.",
+      "lastAlertAt": null,
+      "createdAt": "2026-07-24T07:53:31.167Z"
+    }
+  ],
+  "logs": []
+}
